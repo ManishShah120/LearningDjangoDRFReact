@@ -1,5 +1,5 @@
 ./manage.py makemigrations --dry-run --verbosity 3
 ./manage.py runserver
 ./manage.py createsuperuser
-coverge run --omit='*/venv/*' manage.py test
+coverage run --omit='*/venv/*' manage.py test
 covergae html

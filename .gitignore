@@ -2,4 +2,10 @@
 venv
 ./venv
 
+# django
 __pycache__
+
+
+# Coverage
+.coverage
+htmlcov
